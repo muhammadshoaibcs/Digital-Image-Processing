@@ -218,3 +218,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ==========================================
+# Digital Image Processing - Assignment 02
+# ==========================================
+
+# Ignore all output folders and their contents
+# across current and future exercises
+Assignment-02/**/output/
+
+# Ignore local Python/Conda environments
+.conda/
+.venv/
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore macOS system files
+.DS_Store
